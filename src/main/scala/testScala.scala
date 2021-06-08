@@ -9,4 +9,8 @@ object testScala {
   def newFuc(df:DataFrame):DataFrame={
     df
   }
+
+  def demoTest(df:DataFrame):DataFrame={
+    df
+  }
 }
