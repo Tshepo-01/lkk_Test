@@ -13,4 +13,12 @@ object testScala {
   def demoTest(df:DataFrame):DataFrame={
     df
   }
+
+
+  def demoStrai():DataFrame={
+
+    fallbackStringCanBuildFrom
+  }
 }
+
+
